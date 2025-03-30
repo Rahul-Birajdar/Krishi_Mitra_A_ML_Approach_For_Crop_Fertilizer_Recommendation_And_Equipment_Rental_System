@@ -1,0 +1,1 @@
+# Krishi_Mitra_A_ML_Approach_For_Crop_Fertilizer_Recommendation_And_Equipment_Rental_System
