@@ -44,13 +44,13 @@ Krishi Mitra is an AI-powered mobile application built to assist farmers with da
 ✅Language Support – Entire UI adjusts based on selected language for inclusivity.  
 
 <img src="https://github.com/user-attachments/assets/d2708fd6-89d0-4a10-bc98-55b2df245f53" width="200" height="200">
-![image](https://github.com/user-attachments/assets/d2708fd6-89d0-4a10-bc98-55b2df245f53)
-![image](https://github.com/user-attachments/assets/ed824be8-b74c-49a8-a8af-e95556d27125)
-![Home](https://github.com/user-attachments/assets/01b9b1b9-2327-40fc-8cda-4bf7ce2380ff)
-![Profile](https://github.com/user-attachments/assets/c49c7af2-cf2a-4c33-96e5-e9b38d9dcc9d)
-![Menu](https://github.com/user-attachments/assets/7a8aa6e3-6f58-4f9a-bbce-04c4dc5b7a35)
-![IMG_20250308_233509](https://github.com/user-attachments/assets/bf7e9add-c7c0-4ed1-a028-04e40f322939)
-![image](https://github.com/user-attachments/assets/acfcaf73-6f65-4f20-8508-d05990d5234e)
-![image](https://github.com/user-attachments/assets/0e7d2fe8-5e14-4b20-a7c8-51a88070a601)
+<img src="https://github.com/user-attachments/assets/ed824be8-b74c-49a8-a8af-e95556d27125" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/01b9b1b9-2327-40fc-8cda-4bf7ce2380ff" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/c49c7af2-cf2a-4c33-96e5-e9b38d9dcc9d" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/7a8aa6e3-6f58-4f9a-bbce-04c4dc5b7a35" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/bf7e9add-c7c0-4ed1-a028-04e40f322939" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/acfcaf73-6f65-4f20-8508-d05990d5234e" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/0e7d2fe8-5e14-4b20-a7c8-51a88070a601" width="200" height="200">
+
 
 
