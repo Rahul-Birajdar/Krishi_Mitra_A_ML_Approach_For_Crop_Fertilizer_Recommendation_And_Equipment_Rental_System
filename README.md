@@ -1,9 +1,9 @@
-# KRISHI MITRA - A SMART FARMING APP
+# KRISHI MITRA - A ML Approach For Crop Fertilizer Recommendation And Equipment Rental System
 
 # 🔍 Overview:  
 Krishi Mitra is an AI-powered mobile application built to assist farmers with data-driven decisions and modern farming tools. It integrates machine learning and cloud technologies to deliver personalized crop recommendations, fertilizer guidance, weather insights, equipment rentals, and government scheme updates.  
 
-💡 Key Features:  
+# 💡 Key Features:  
 ✅ Crop & Fertilizer Recommendation-  
 • Predicts the best crop to grow using a Random Forest model trained on environmental data.  
 • Recommends suitable fertilizers based on soil nutrients (N, P, K).  
@@ -26,7 +26,7 @@ Krishi Mitra is an AI-powered mobile application built to assist farmers with da
 ✅ Secure User Authentication-  
 • Firebase Authentication for sign-up, login, and profile management.  
 
-🧰 Technologies Used:  
+# 🧰 Technologies Used:  
 🔹Frontend - Flutter (Dart) with GetX for state & localization  
 🔹Backend - Python (Flask) with RESTful APIs  
 🔹Machine Learning - Scikit-learn – Random Forest model  
@@ -34,7 +34,7 @@ Krishi Mitra is an AI-powered mobile application built to assist farmers with da
 🔹Authentication - Firebase Authentication  
 🔹Weather - OpenWeatherMap API  
 
-⚙️ How It Works:  
+# ⚙️ How It Works:  
 ✅User Authentication – Users register/login to access personalized features.  
 ✅Input Data – Users input soil and environmental data (N, P, K, temperature, humidity, rainfall).  
 ✅ML Prediction – Backend API returns crop and fertilizer recommendations using a trained model.  
