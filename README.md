@@ -14,7 +14,7 @@ Krishi Mitra is an AI-powered mobile application built to assist farmers with da
 
 ✅ Weather Forecasting-  
 • Shows current and 7-day weather forecasts including temperature, humidity, rainfall, wind speed, and pressure.  
-• Real-time data integration using sensors and OpenWeatherMap API.  
+• Real-time data integration using OpenWeatherMap API.  
 
 ✅ Government Scheme Access-  
 • Provides information on relevant agriculture-related government schemes.  
