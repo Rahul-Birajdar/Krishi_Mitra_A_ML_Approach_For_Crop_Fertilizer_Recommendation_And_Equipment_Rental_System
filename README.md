@@ -43,6 +43,9 @@ Krishi Mitra is an AI-powered mobile application built to assist farmers with da
 ✅Schemes – Informative section on central/state government agricultural schemes.  
 ✅Language Support – Entire UI adjusts based on selected language for inclusivity.  
 
+# Research Paper Link : 
+https://www.irjmets.com/uploadedfiles/paper//issue_3_march_2025/69596/final/fin_irjmets1743171440.pdf
+
 # App Images
 <img src="https://github.com/user-attachments/assets/d2708fd6-89d0-4a10-bc98-55b2df245f53" width="300" height="400">
 <img src="https://github.com/user-attachments/assets/ed824be8-b74c-49a8-a8af-e95556d27125" width="300" height="400">
